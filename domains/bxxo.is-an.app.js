@@ -1,5 +1,5 @@
 addSubDomain({
-  description: 'an brawl stars api for my friends and me and all the people.', // describe your project in this field
+  description: 'an brawl stars api for my friends and me and all the people. and my classmates', // describe your project in this field
   domain: 'is-an.app', // aka "root-domain". select between '1bt.uk' and 'is-an.app'
   subdomain: 'bxxo', // desired subdomain name
   owner: {
